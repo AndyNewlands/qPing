@@ -16,3 +16,7 @@ Usage:
         For example, the following will ping 89.150.31.60, then 89.150.31.61, then 89.150.31.62 - twice each
 
         qping 89.150.31.60 3 2
+        
+        
+ By Andy Newlands
+ andynewlands at gmail dot com
