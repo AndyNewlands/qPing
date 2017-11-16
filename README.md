@@ -1,5 +1,6 @@
 # qPing
-A very simple, multiple, consecutive IPV4-address ping utiliry (Windows).
+
+A very simple, multiple, consecutive IPV4-address ping utility (Windows).
 
 Build using MS Visual Studio 2017 or later.
 
