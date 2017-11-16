@@ -1,2 +1,2 @@
 # qPing
-Quick multiple consecutive address ping utiliry (Windows)
+A very simple, multiple, consecutive IPV4-address ping utiliry (Windows)
